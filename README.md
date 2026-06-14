@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Roy-Kid/Roy-Kid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Jichen 👋
 
-Here are some ideas to get you started:
+### I build scientific software for molecular modeling and AI for Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</div>
+
+---
+
+I am a Ph.D. student in computational chemistry and scientific software developer. Good scientific software should not only run correctly. It should reduce friction, preserve context, and let researchers focus on the science instead of fighting fragile workflows.
+
+---
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roy-Kid&layout=compact&hide_border=true&theme=vue&langs_count=8&hide=jupyter%20notebook"
+  alt="Most used languages"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+I am also building [MolCrafts](https://github.com/MolCrafts), an open molecular software ecosystem for better scientific research.
+
+</div>
